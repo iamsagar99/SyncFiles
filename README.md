@@ -1,4 +1,4 @@
-# Screenshot Sync - Seamless Screenshot Transfer from Mac to Android 📸📱
+# FileSync - Seamless File Transfer from Mac to Android 📸📱
 
 This project is a simple solution to transfer screenshots from your Mac to your Android device using FTP. Whenever you take a screenshot on your Mac, it will be automatically uploaded to a specific directory on your Android device, making it easier to access your files without manual transfers.
 
